@@ -1,6 +1,6 @@
 # 🧠 Estudios y Proyectos – Red Asistencial Ica – EsSalud
 
-📍 **Repositorio oficial de investigaciones científicas** desarrolladas por profesionales de la Red Asistencial Ica – EsSalud. Este espacio reúne evidencias actualizadas, métodos de análisis y productos académicos orientados a la mejora continua de la atención en salud pública.
+📍 **Repositorio oficial de investigaciones científicas** desarrolladas por investigadores internos y externos solicitados a la Red Asistencial Ica – EsSalud. Este espacio reúne evidencias actualizadas, métodos de análisis y productos académicos orientados a la mejora continua de la atención en salud pública.
 
 ---
 
